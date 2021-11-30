@@ -11,5 +11,5 @@
   
   ##
   
-### Tecnologies i'm learning 🖥
-  <img align="left" alt="kayjava" height="50" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+### Tecnologies I'm learning so far 🖥
+  <img align="left" alt="kayjava" height="60" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
