@@ -3,8 +3,13 @@
 - 🌱 I’m currently learning to work with Java
 - 📖 I'll start college in 2022 - Analysis and Systems Development
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/kayane-developer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayane-developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayane-developer&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kayane-developer&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayane-developer&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
+  
+  ##
+  
+### Tecnologies i'm learning 🖥
+  <img align="left" alt="kayjava" height="50" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
