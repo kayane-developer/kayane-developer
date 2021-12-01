@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/kayane-developer">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kayane-developer&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayane-developer&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="170em" width= "480" src="https://github-readme-stats.vercel.app/api?username=kayane-developer&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" width= "470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayane-developer&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   ##
