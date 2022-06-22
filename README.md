@@ -1,7 +1,7 @@
 ### Hey! I'm Kayane Costa 👋
 
 - 🌱 I’m currently learning to work with Java
-- 📖 I'll start college in 2022 - Analysis and Systems Development
+- 📖 College student - Analysis and Systems Development
 
 <div align="center">
   <a href="https://github.com/kayane-developer">
