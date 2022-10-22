@@ -14,4 +14,7 @@
 ### Tecnologies I'm learning so far 🖥
   <img align="left" alt="kayjava" height="60" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="left" alt="kaygithub" height="60" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="left" alt="kaygithub" height="60" width="60" src = "https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original-wordmark.svg" />
+  <img align="left" alt="kaygithub" height="60" width="60" src = "https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original-wordmark.svg" />
+  <img align="left" alt="kaygithub" height="60" width="60" src = "https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" />
  
