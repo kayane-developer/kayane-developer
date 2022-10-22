@@ -1,7 +1,8 @@
 ### Hey! I'm Kayane Costa 👋
 
-- 🌱 I’m currently learning to work with Java
+- 🌱 Software developer - Java
 - 📖 College student - Analysis and Systems Development
+- Linkedin: https://www.linkedin.com/in/kayane-costa-255628174/
 
 <div align="center">
   <a href="https://github.com/kayane-developer">
@@ -20,5 +21,4 @@
   <img align="left" alt="kaygithub" height="60" width="60" src = "https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" />
   <img align="left" alt="kaygithub" height="60" width="60" src = "https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original-wordmark.svg" />
   <img align="left" alt="kaygithub" height="60" width="60" src = "https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original-wordmark.svg" />
-  <img align="left" alt="kaygithub" height="60" width="60" src = "https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original-wordmark.svg" />
  
