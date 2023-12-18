@@ -1,7 +1,7 @@
 ### Hey! I'm Kayane Costa 👋
 
 - 🌱 Software developer - Java
-- 📖 College student - Analysis and Systems Development
+- 📖 Analysis and Systems Development
 - Linkedin: https://www.linkedin.com/in/kayane-costa-255628174/
 
 <div align="center">
